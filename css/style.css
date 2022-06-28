@@ -1,0 +1,30 @@
+
+.div-der{
+   /* background-image: url(../img/Monumental.jpg);*/
+   background-image: url(../img/honolulu.jpg);
+    background-size: cover;
+}
+
+.card-group{margin-top: 20px;}
+
+.carousel-caption {
+    position: absolute;
+    right: 10%;
+    bottom: 250px;
+    left: 55%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: right;
+  }
+h3{color: white;}
+.titulo{color: black; text-align: center; font-size: x-large;}
+.row{width: 1500px; height: 500px;}
+
+.este{text-decoration:underline dotted; color: black;  }
+:placeholder-shown{font-size: x-large;}
+h1{color: white;}
+
+
+
